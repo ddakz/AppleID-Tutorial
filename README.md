@@ -49,7 +49,7 @@
 
 ### 🧩 仓库功能亮点：
 
-* 📦 [免费订阅地址](#-免费机场与节点推荐2025-最新)，无限使用
+* 📦 [免费订阅地址](#-免费机场与节点推荐2026-最新)，无限使用
 * 🚀 节点高速稳定，可解锁 ChatGPT 与流媒体
 * 🔄 每日自动更新，保持最新可用状态
 * 🍎 不定时更新 Apple 美区共享 ID，轻松下载外区 App
@@ -104,7 +104,7 @@
 
 ![](images/Localhost-Subcription-Converter.jpg)
 
-## 🎁 免费机场与节点推荐（2025 最新）
+## 🎁 免费机场与节点推荐（2026 最新）
 
 **PS：不保证都可用/多切换试试**，可以使用 [在线订阅转换链接](#小火箭节点转换教程) 转为符合自己客户端的链接
 
@@ -130,7 +130,7 @@
 
 ### Clash代理节点订阅地址列表
 
-以下是截至2025年6月24日整理的Clash代理节点订阅地址，均采用YAML格式，适用于Clash或ClashX客户端。
+以下是截至2026年6月24日整理的Clash代理节点订阅地址，均采用YAML格式，适用于Clash或ClashX客户端。
 
 1. **SystemProxy 主配置文件**
    - 地址: https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml
@@ -140,7 +140,7 @@
    - 备注: 美国地区优化节点，适合需要访问美国服务的用户。
 3. **NodeFree**
    - 地址: https://nodefree.org/dy/2024/07/20240725.yaml
-   - 备注: 每日更新节点，需验证2025年最新可用性。
+   - 备注: 每日更新节点，需验证2026年最新可用性。
 4. **Mfuu**
    - 地址: https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
    - 备注: 社区提供的免费订阅地址，适用于多种网络环境。
@@ -197,7 +197,7 @@
 
 - 月/季/半年付享 **85折** 优惠码：`fb2561885`（可用 5 次）
 - 年付享 **8 折** 优惠码：`fb2561880`（可用 5 次）
-- 活动截止：**2025 年 6 月 20 日 23:59**
+- 活动截止：**2026 年 6 月 20 日 23:59**
 
 🔗 [FlyingBird 访问地址](https://fbinv02.fbaff.cc/auth/register?code=suXcBa1W)
 ### 🕊️ [SakuraCat](https://sakuracat.shop/register?code=shdLFSWp)（IPLC专线 · 稳定价格低 · 多平台支持）
@@ -235,7 +235,7 @@
 | 160GB | ¥11.9/月（年付 ¥99） | 每月重置流量 |
 
 - **优惠码**：`yep85` 全场 85 折 + 免手续费
-- **活动截止**：2025 年 6 月 3 日
+- **活动截止**：2026 年 6 月 3 日
 - 支持套餐自动折抵升级（如月付转年付）
 
 🔗 [YepFast 官网地址](https://yep.top/#register?code=fXJDQ4X9)
@@ -262,7 +262,7 @@
 
 ## 🔐 Shadowrocket（小火箭）共享账号 & 美区 Apple ID
 
-> 🕒 更新时间：2025 年 8 月 26 日
+> 🕒 更新时间：2026 年 3 月 15 日
 
 [【小火箭共享账号每日更新】](https://docs.applexp.com/free-accounts/Shadowrocket)
 
